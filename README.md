@@ -39,7 +39,7 @@ Grab the latest installer from the Releases page.
 flutter pub get
 flutter build windows --release
 
-👥 Credits
+## 👥 Credits
 Made with ❤️ by:
 
 Rohit Mandal — Lead Developer
@@ -50,7 +50,7 @@ Bishal Chy
 
 Gopal Gupta
 
-📄 License
+## 📄 License
 Distributed under the MIT License.
 See LICENSE for more information.
 
