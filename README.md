@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon/icon.png" width="120" alt="Prism Music Player Logo">
+<img src="assets/iogo.png" width="120" alt="Prism Music Player Logo">
 
 # Prism Music Player
 
