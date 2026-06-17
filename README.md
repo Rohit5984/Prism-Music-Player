@@ -40,7 +40,7 @@ MP3, WAV, FLAC, OGG, AAC, M4A, WMA, OPUS, AIFF, APE, WEBM, 3GP, OGA, WV, AMR, MI
 
 ### Download
 
-Download the latest installer from the **Releases** page.
+➡️ **[Download Latest Release](https://github.com/Rohit5984/Prism-Music-Player/releases/latest)**
 
 ### Requirements
 
