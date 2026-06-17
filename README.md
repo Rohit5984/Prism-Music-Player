@@ -1,12 +1,20 @@
+<div align="center">
+
+<img src="assets/icon/icon.png" width="120" alt="Prism Music Player Logo">
+
 # Prism Music Player
 
 A modern, high-performance desktop music player for Windows, built with Flutter.
 
-Prism Music Player focuses on speed, simplicity, and broad audio format support. It automatically discovers your music library, supports advanced playback controls, and allows instant playback by opening audio files directly from Windows Explorer.
+![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-blue)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</div>
 
 ---
 
-## Features
+## 🎵 Features
 
 * Supports 20+ audio formats
 * Smart Library with automatic folder scanning
@@ -22,17 +30,17 @@ Prism Music Player focuses on speed, simplicity, and broad audio format support.
 
 ---
 
-## Supported Audio Formats
+## 🎧 Supported Audio Formats
 
 MP3, WAV, FLAC, OGG, AAC, M4A, WMA, OPUS, AIFF, APE, WEBM, 3GP, OGA, WV, AMR, MID, MIDI, MKA, DTS, AC3
 
 ---
 
-## Installation
+## 📦 Installation
 
 ### Download
 
-Download the latest installer from the Releases page.
+Download the latest installer from the **Releases** page.
 
 ### Requirements
 
@@ -49,7 +57,7 @@ Download the latest installer from the Releases page.
 
 ---
 
-## Build From Source
+## 🛠️ Build From Source
 
 ### Prerequisites
 
@@ -66,18 +74,18 @@ flutter build windows --release
 
 ---
 
-## Credits
+## 👥 Credits
 
-Made with ❤️ by:
+Made with ❤️ by
 
-* Rohit Mandal — Lead Developer
-* Sushant Chy
-* Bishal Chy
-* Gopal Gupta
+* **Rohit Mandal** — Lead Developer
+* **Sushant Chy**
+* **Bishal Chy**
+* **Gopal Gupta**
 
 ---
 
-## License
+## 📄 License
 
 Distributed under the MIT License.
 
